@@ -1,0 +1,10 @@
+git branch nueva rama
+git checkout mover a tal rama
+git checkout -b nueva rama
+git branch -d  para borrar rama
+git clone para clonar respositorio
+git status para ver estado de los archivos
+git add . para agregar todos los archivos
+git commit -m "mensaje" para hacer commit
+git push para subir cambios al repositorio bitbucket
+git pull para bajar cambios del repositorio
