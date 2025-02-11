@@ -1,6 +1,6 @@
-git branch nueva rama
+git branch < nueva rama >
 git checkout mover a tal rama
-git checkout -b nueva rama
+git checkout -b < nueva rama >
 git branch -d  para borrar rama
 git clone para clonar respositorio
 git status para ver estado de los archivos
